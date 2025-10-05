@@ -3,7 +3,7 @@ import React from "react";
 const Display = (props) => {
   return (
     <div>
-      <h1>Display z {props.value}</h1>
+      <h1>Display Component {props.value}</h1>
     </div>
   );
 }
